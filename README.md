@@ -1,2 +1,3 @@
-# SDN-Project
-SDN based loadbalancing in cloud computing with security enhancement
+#adaptive network traffic distribution 
+based on queue server congestion 
+Using software defined networking
